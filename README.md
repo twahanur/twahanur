@@ -48,4 +48,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=twahanur&show_icons=true)
 
 <!-- GitHub Streak Stats Widget -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twahanur" alt="twahanur" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=twahanur&theme=dark-smoky&border_radius=6&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
