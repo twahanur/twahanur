@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Twahanur Rahman</h1>
 <h3 align="center">........ I am a developer from anywhere who is passionate about work .........</h3>
-<ing align="right" alt="while(life!=left){cout<<'programming.....'}" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="while(life!=left){cout<<'programming.....'}" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twahanur&label=Profile%20views&color=0e75b6&style=flat" alt="twahanur" /> </p>
 
@@ -46,7 +46,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twahanur&show_icons=true&locale=en&layout=compact" alt="twahanur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twahanur&show_icons=true&locale=en" alt="twahanur" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=twahanur&show_icons=true&locale=en" alt="twahanur" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twahanur&" alt="twahanur" /></p>
 
