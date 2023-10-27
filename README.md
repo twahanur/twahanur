@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Twahanur Rahman</h1>
 <h3 align="center">........ I am a developer from anywhere who is passionate about work .........</h3>
-<img align="right" alt="while(life!=left){cout<<'programming.....'}" width="50%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="while(life!=left){cout<<'programming.....'}" width="40%" src="https://github.com/twahanur/twahanur/blob/main/twahanurGithub.gif">
 
 
 ## 💫 About Me
 
 - 🔭 I'm currently pursuing a **BSc. in Computer Science and Engineering**.
+ 
 - 🌱 I'm learning [**web development 2.0**](https://web.programming-hero.com/) through the programming-hero platform.
+ 
 - 💬 Ask me about **JavaScript, C++**.
+ 
 - 📫 You can reach me at [Gmail](mailto:tweahanur.rahman@gmail.com).
+ 
 - 📄 Explore my experiences: [Resume](https://drive.google.com/file/d/1RSs2JNWXTD3972rCdTYtjOm6gmY-CL-F/view?usp=drive_link)
+ 
 - ⚡ Fun fact: I laugh at the most serious moments!
+ 
 
 ## 🌐 Connect with Me
 <p align="center">
