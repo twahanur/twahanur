@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Twahanur Rahman</h1>
 <h3 align="center">........ I am a developer from anywhere who is passionate about work .........</h3>
-<img align="right" alt="while(life!=left){cout<<'programming.....'}" width="40%" src="https://github.com/twahanur/twahanur/blob/main/twahanurGithub.gif">
+<img align="right" alt="while(life!=left){cout<<'programming.....'}" width="40%" src="/twahanurGithub.gif">
 
 
 ## 💫 About Me
@@ -16,7 +16,7 @@
 - 📄 Explore my experiences: [Resume](https://drive.google.com/file/d/1RSs2JNWXTD3972rCdTYtjOm6gmY-CL-F/view?usp=drive_link)
  
 - ⚡ Fun fact: I laugh at the most serious moments!
- 
+<img align="center" alt="....................................................................................'}" width="100%" src="/twahanurGithubLine.gif">
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -31,6 +31,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="twahanur" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="twahanur" height="30" width="40" /></a>
 </p>
+<img align="center" alt="....................................................................................'}" width="100%" src="/twahanurGithubLine.gif">
 
 ## Languages and Tools
 <p align="center">
@@ -51,13 +52,13 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>&nbsp;&nbsp;
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
 </p>
-
+<img align="center" alt="....................................................................................'}" width="100%" src="/twahanurGithubLine.gif">
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/twahanur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="twahanur" /></a></p><br><br>
 
 
-
+<img align="center" alt="....................................................................................'}" width="100%" src="/twahanurGithubLine.gif">
 <p>
     <a align="left" width="45%">
         <h2>📊 GitHub Stats</h2>
@@ -87,6 +88,7 @@
         <img align="lwft" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=twahanur&theme=highcontrast&hide_border=false&include_all_commits=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </a>
 </p>
+<img align="center" alt="....................................................................................'}" width="100%" src="/twahanurGithubLine.gif">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=twahanur&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
@@ -94,6 +96,7 @@
 
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=twahanur&icon=5&color=8" alt="twahanur" /> </p>
 
+<img align="center" alt="....................................................................................'}" width="100%" src="/twahanurGithubLine.gif">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
