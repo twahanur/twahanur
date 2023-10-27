@@ -6,15 +6,10 @@
 ## 💫 About Me
 
 - 🔭 I'm currently pursuing a **BSc. in Computer Science and Engineering**.
-
 - 🌱 I'm learning [**web development 2.0**](https://web.programming-hero.com/) through the programming-hero platform.
-
 - 💬 Ask me about **JavaScript, C++**.
-
 - 📫 You can reach me at [Gmail](mailto:tweahanur.rahman@gmail.com).
-
 - 📄 Explore my experiences: [Resume](https://drive.google.com/file/d/1RSs2JNWXTD3972rCdTYtjOm6gmY-CL-F/view?usp=drive_link)
-
 - ⚡ Fun fact: I laugh at the most serious moments!
 
 ## 🌐 Connect with Me
