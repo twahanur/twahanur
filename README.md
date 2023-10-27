@@ -44,14 +44,14 @@
 
 <p>
     <a align="left" width="45%">
-        <h2>Languages and Tool</h2>
+        <h2>GitHub Stats</h2>
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=twahanur&show_icons=true&locale=en&layout=compact" alt="twahanur" />
     </a>
 </p>
 
 <p>
     <a align="right" width="45%">
-        <h2>Languages and Tool</h2>
+        <h2>Top Languages</h2>
         <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=twahanur&show_icons=true&locale=en" alt="twahanur" />
     </a>
 </p>
@@ -67,7 +67,7 @@
 
 <p>
    <a> 
-        <h2 align="left">Languages and Tool</h2>
+        <h2 align="left">itHub Streak</h2>
         <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=twahanur&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </a>
 </p>
