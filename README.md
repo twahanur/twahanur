@@ -76,7 +76,7 @@
 
 <p>
    <a> 
-        <h2 align="left">itHub Streak</h2>
+        <h2 align="left">GitHub Streak</h2>
         <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=twahanur&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </a>
 </p>
