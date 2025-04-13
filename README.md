@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="250px" alt="while(life!=left){cout<<'programming.....'}" width="40%" src="/twahanurGithubBG.gif">
+<img align="center" width="100%" height="250px" alt="while(life!=left){cout<<'programming.....'}" width="40%" src="/twahanur%2C%20twahanur%20rahman%2C%20twaha%2C%20thohanur%2C%20thohanur%20rahman%20cover.png">
 <h1 align="center">Hi 👋, I'm Twahanur Rahman</h1>
 <h3 align="center">........ I am a developer from anywhere who is passionate about work .........</h3>
 <img align="right" alt="while(life!=left){cout<<'programming.....'}" width="40%" src="/twahanurGithub.gif">
