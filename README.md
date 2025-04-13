@@ -96,8 +96,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=twahanur&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=twahanur&icon=5&color=8" alt="twahanur" /> </p>
-
 <img align="center" alt="....................................................................................'}" width="100%" src="/twahanurGithubLine.gif">
 
 ### ✍️ Random Dev Quote
