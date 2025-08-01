@@ -83,7 +83,8 @@
 <br>
 <br>
 <br>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p>
    <a> 
         <h2 align="left">💻 GitHub Streak</h2>
