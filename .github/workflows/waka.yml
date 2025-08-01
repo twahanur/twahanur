@@ -1,0 +1,33 @@
+name: 📊 WakaTime Stats
+
+on:
+  # Runs every day at 00:00 UTC
+  schedule:
+    - cron: '0 0 * * *'
+
+  # Allows manual trigger in GitHub UI
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update WakaTime Stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Run WakaTime Readme Stats Action
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # Optional Configs (uncomment to customize)
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          LOCALE: "en"
