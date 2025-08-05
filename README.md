@@ -86,13 +86,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2031%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 161 Contributions in the Year 2025
+> 🏆 166 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -103,21 +105,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-🌆 Daytime                98 commits          ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-🌃 Evening                192 commits         ████████████░░░░░░░░░░░░░   48.85 % 
-🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+🌞 Morning                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+🌆 Daytime                108 commits         ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+🌃 Evening                192 commits         ████████████░░░░░░░░░░░░░   47.64 % 
+🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Thursday                 57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Friday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Saturday                 74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Sunday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Monday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Thursday                 57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Friday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Saturday                 74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Sunday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 ```
 
 
@@ -127,21 +129,14 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               13 hrs 7 mins       ████████████████░░░░░░░░░   63.94 % 
-TypeScript               6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Prisma                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JavaScript               15 hrs              ████████████████░░░░░░░░░   65.82 % 
+TypeScript               6 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 31 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-BlinkIt-Clone-Full-Stack-6 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
-assignment-portal        5 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-personal-portfolio-v2    3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-nimitech-website-frontend2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Programming-hero-assignme1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+VS Code                  22 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -157,7 +152,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2025 09:44:29 UTC
+ Last Updated on 05/08/2025 02:04:06 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
