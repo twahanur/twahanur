@@ -84,7 +84,7 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
@@ -129,14 +129,14 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               17 hrs 56 mins      ████████████░░░░░░░░░░░░░   47.10 % 
-TypeScript               17 hrs 25 mins      ███████████░░░░░░░░░░░░░░   45.72 % 
-JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Bash                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TypeScript               20 hrs 40 mins      █████████████░░░░░░░░░░░░   53.33 % 
+JavaScript               14 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   37.62 % 
+JSON                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Bash                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+CSS                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  38 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2025 02:02:10 UTC
+ Last Updated on 09/08/2025 01:51:25 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
