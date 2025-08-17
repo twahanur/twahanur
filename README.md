@@ -84,9 +84,9 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -94,7 +94,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 195 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -129,14 +129,14 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               18 hrs 49 mins      █████████████████░░░░░░░░   68.87 % 
-JavaScript               5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-CSS                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TypeScript               17 hrs 46 mins      ██████████████████░░░░░░░   72.16 % 
+JavaScript               4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+CSS                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2025 01:48:11 UTC
+ Last Updated on 17/08/2025 01:59:26 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
