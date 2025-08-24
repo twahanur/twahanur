@@ -94,7 +94,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 220 Contributions in the Year 2025
+> 🏆 222 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -105,21 +105,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-🌆 Daytime                139 commits         ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-🌃 Evening                244 commits         ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+🌞 Morning                54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+🌆 Daytime                139 commits         ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+🌃 Evening                244 commits         ████████████░░░░░░░░░░░░░   49.90 % 
+🌙 Night                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Tuesday                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Wednesday                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Friday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Saturday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Sunday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Tuesday                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Wednesday                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Friday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Sunday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 ```
 
 
@@ -129,30 +129,30 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               14 hrs 35 mins      ███████████████████████░░   93.89 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+TypeScript               13 hrs 29 mins      ██████████████████████░░░   86.67 % 
+HTTP                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               41 repos            ████████████░░░░░░░░░░░░░   46.07 % 
-TypeScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+JavaScript               41 repos            ███████████░░░░░░░░░░░░░░   45.56 % 
+TypeScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 
 
 
 
- Last Updated on 23/08/2025 01:41:55 UTC
+ Last Updated on 24/08/2025 01:55:30 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
