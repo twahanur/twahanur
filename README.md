@@ -84,17 +84,17 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 222 Contributions in the Year 2025
+> 🏆 223 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -105,21 +105,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-🌆 Daytime                139 commits         ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-🌃 Evening                244 commits         ████████████░░░░░░░░░░░░░   49.90 % 
-🌙 Night                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+🌆 Daytime                141 commits         ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+🌃 Evening                244 commits         ████████████░░░░░░░░░░░░░   49.49 % 
+🌙 Night                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Tuesday                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Wednesday                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Friday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Sunday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Monday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Tuesday                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Wednesday                76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Thursday                 69 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Sunday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 ```
 
 
@@ -129,14 +129,14 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               13 hrs 39 mins      █████████████████████░░░░   85.46 % 
-CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-HTTP                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+TypeScript               12 hrs 22 mins      ████████████████████░░░░░   79.74 % 
+HTTP                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2025 01:50:06 UTC
+ Last Updated on 26/08/2025 01:46:11 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
