@@ -84,7 +84,7 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,6 +93,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 240 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -127,14 +129,14 @@ Sunday                   54 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               20 hrs 9 mins       █████████████████████░░░░   84.94 % 
-HTTP                     2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+TypeScript               19 hrs 30 mins      █████████████████████░░░░   84.06 % 
+HTTP                     3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -150,7 +152,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2025 01:29:46 UTC
+ Last Updated on 07/09/2025 01:45:09 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
