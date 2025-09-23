@@ -84,8 +84,6 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
@@ -94,7 +92,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 257 Contributions in the Year 2025
+> 🏆 262 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -102,43 +100,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-🌆 Daytime                170 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-🌃 Evening                281 commits         ████████████░░░░░░░░░░░░░   49.47 % 
-🌙 Night                  59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   104 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Tuesday                  55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Wednesday                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Thursday                 75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Friday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Saturday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-TypeScript               28 hrs 1 min        ██████████████████████░░░   86.41 % 
-HTTP                     3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🔥 Editors: 
-VS Code                  32 hrs 25 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -152,7 +113,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 01:47:30 UTC
+ Last Updated on 23/09/2025 01:40:34 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
