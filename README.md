@@ -84,6 +84,8 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2057%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
@@ -100,6 +102,43 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+🌆 Daytime                184 commits         ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+🌃 Evening                306 commits         ████████████░░░░░░░░░░░░░   49.51 % 
+🌙 Night                  69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   129 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Tuesday                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Wednesday                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Thursday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Friday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Saturday                 98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Sunday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+TypeScript               25 hrs 30 mins      █████████████████████░░░░   83.67 % 
+HTTP                     4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+VS Code                  30 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -113,7 +152,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 01:40:34 UTC
+ Last Updated on 24/09/2025 01:40:25 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
