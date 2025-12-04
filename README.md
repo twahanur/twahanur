@@ -84,7 +84,7 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -129,14 +129,14 @@ Sunday                   259 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               14 hrs 6 mins       █████████████░░░░░░░░░░░░   53.51 % 
-JavaScript               5 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-JSON                     3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Prisma                   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               13 hrs 39 mins      ████████████████░░░░░░░░░   63.85 % 
+JavaScript               3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+JSON                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Prisma                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2025 01:51:26 UTC
+ Last Updated on 04/12/2025 01:52:13 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
