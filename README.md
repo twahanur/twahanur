@@ -84,11 +84,11 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -105,21 +105,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                308 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-🌆 Daytime                458 commits         ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-🌃 Evening                759 commits         ███████████░░░░░░░░░░░░░░   42.62 % 
-🌙 Night                  256 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+🌞 Morning                310 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+🌆 Daytime                460 commits         ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+🌃 Evening                761 commits         ███████████░░░░░░░░░░░░░░   42.54 % 
+🌙 Night                  258 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Tuesday                  362 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Wednesday                383 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Thursday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Friday                   158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Saturday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Sunday                   259 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Monday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Tuesday                  368 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Wednesday                383 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Thursday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Friday                   158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Saturday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Sunday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
 ```
 
 
@@ -129,14 +129,14 @@ Sunday                   259 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               1 hr 36 mins        ███████████░░░░░░░░░░░░░░   42.46 % 
-JSON                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Prisma                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-CSV                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+TypeScript               1 hr 47 mins        ████████████░░░░░░░░░░░░░   48.97 % 
+Prisma                   39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+JSON                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2025 02:01:11 UTC
+ Last Updated on 15/12/2025 01:58:39 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
