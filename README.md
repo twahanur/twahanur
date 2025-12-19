@@ -105,21 +105,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                312 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-🌆 Daytime                462 commits         ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-🌃 Evening                779 commits         ███████████░░░░░░░░░░░░░░   42.78 % 
-🌙 Night                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+🌞 Morning                312 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+🌆 Daytime                462 commits         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌃 Evening                781 commits         ███████████░░░░░░░░░░░░░░   42.82 % 
+🌙 Night                  269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Tuesday                  372 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Wednesday                399 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Thursday                 207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Friday                   160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Sunday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Monday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Tuesday                  373 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Wednesday                399 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Thursday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Friday                   160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Sunday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 ```
 
 
@@ -129,14 +129,14 @@ Sunday                   261 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               2 hrs 51 mins       ███████████████░░░░░░░░░░   58.30 % 
-Prisma                   42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+TypeScript               3 hrs 40 mins       ████████████████░░░░░░░░░   62.41 % 
+Prisma                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2025 01:52:00 UTC
+ Last Updated on 19/12/2025 01:54:43 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
