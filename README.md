@@ -84,7 +84,7 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -94,11 +94,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2026
+> 🏆 7 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 101 Public Repositories 
+> 📜 102 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -129,30 +129,30 @@ Sunday                   298 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               14 hrs 19 mins      ███████████████████░░░░░░   77.99 % 
-Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Prisma                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+TypeScript               13 hrs 22 mins      ███████████████████░░░░░░   75.11 % 
+Markdown                 2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Prisma                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               40 repos            ██████████░░░░░░░░░░░░░░░   40.40 % 
-TypeScript               31 repos            ████████░░░░░░░░░░░░░░░░░   31.31 % 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JavaScript               40 repos            ██████████░░░░░░░░░░░░░░░   39.60 % 
+TypeScript               33 repos            ████████░░░░░░░░░░░░░░░░░   32.67 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 
 
 
- Last Updated on 12/01/2026 02:04:06 UTC
+ Last Updated on 13/01/2026 01:55:47 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
