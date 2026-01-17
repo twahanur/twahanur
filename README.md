@@ -129,14 +129,14 @@ Sunday                   298 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               8 hrs 19 mins       ███████████████████░░░░░░   74.25 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Prisma                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+TypeScript               3 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.51 % 
+Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Prisma                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  6 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2026 01:59:40 UTC
+ Last Updated on 17/01/2026 01:54:12 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
