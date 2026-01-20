@@ -84,17 +84,17 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 14 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -105,21 +105,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                360 commits         ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-🌆 Daytime                387 commits         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-🌃 Evening                530 commits         █████████░░░░░░░░░░░░░░░░   34.19 % 
-🌙 Night                  273 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+🌞 Morning                360 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+🌆 Daytime                409 commits         ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+🌃 Evening                534 commits         ████████░░░░░░░░░░░░░░░░░   33.88 % 
+🌙 Night                  273 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Tuesday                  345 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Wednesday                322 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-Thursday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Friday                   133 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Saturday                 139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Sunday                   299 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Monday                   127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Tuesday                  345 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Wednesday                322 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Thursday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Friday                   135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Saturday                 139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Sunday                   303 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 ```
 
 
@@ -129,14 +129,14 @@ Sunday                   299 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.22 % 
-Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-JSON                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Bash                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Prisma                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+TypeScript               5 hrs 1 min         ████████████░░░░░░░░░░░░░   49.63 % 
+JSON                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Prisma                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Go                       44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2026 02:04:59 UTC
+ Last Updated on 20/01/2026 01:59:50 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
