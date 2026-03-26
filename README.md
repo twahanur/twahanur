@@ -100,7 +100,7 @@
  > 
 > 📜 104 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 42 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
