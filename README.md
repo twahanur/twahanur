@@ -84,17 +84,17 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.29%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.40%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 261 Contributions in the Year 2026
+> 🏆 280 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -105,21 +105,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1534 commits        ████████░░░░░░░░░░░░░░░░░   33.02 % 
-🌆 Daytime                1610 commits        █████████░░░░░░░░░░░░░░░░   34.65 % 
-🌃 Evening                1009 commits        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-🌙 Night                  493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+🌞 Morning                1654 commits        ████████░░░░░░░░░░░░░░░░░   33.77 % 
+🌆 Daytime                1740 commits        █████████░░░░░░░░░░░░░░░░   35.52 % 
+🌃 Evening                1011 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+🌙 Night                  493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Tuesday                  877 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Wednesday                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Thursday                 985 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Friday                   382 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Saturday                 476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Sunday                   660 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Monday                   616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Tuesday                  911 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Wednesday                784 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Thursday                 1011 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Friday                   402 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Saturday                 506 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Sunday                   668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 ```
 
 
@@ -129,14 +129,14 @@ Sunday                   660 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               6 hrs 9 mins        ██████████████████░░░░░░░   72.86 % 
-JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Go                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Prisma                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+TypeScript               9 hrs 55 mins       ██████████████████░░░░░░░   73.46 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Go                       29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Prisma                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2026 02:48:02 UTC
+ Last Updated on 31/03/2026 02:41:42 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
