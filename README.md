@@ -84,17 +84,17 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.68%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 281 Contributions in the Year 2026
+> 🏆 282 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -105,21 +105,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1788 commits        ████████░░░░░░░░░░░░░░░░░   33.86 % 
-🌆 Daytime                1898 commits        █████████░░░░░░░░░░░░░░░░   35.95 % 
-🌃 Evening                1071 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-🌙 Night                  523 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+🌞 Morning                1795 commits        ████████░░░░░░░░░░░░░░░░░   33.87 % 
+🌆 Daytime                1907 commits        █████████░░░░░░░░░░░░░░░░   35.98 % 
+🌃 Evening                1075 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+🌙 Night                  523 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Tuesday                  974 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Wednesday                845 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Thursday                 1073 commits        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Friday                   434 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Saturday                 550 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Sunday                   716 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Monday                   688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Tuesday                  981 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Wednesday                849 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Thursday                 1081 commits        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Friday                   434 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Saturday                 550 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Sunday                   717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
 ```
 
 
@@ -129,14 +129,14 @@ Sunday                   716 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               11 hrs 55 mins      ██████████████████░░░░░░░   73.98 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Go                       29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Prisma                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TypeScript               14 hrs 31 mins      ████████████████████░░░░░   79.30 % 
+Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Go                       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Prisma                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  18 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2026 02:37:35 UTC
+ Last Updated on 03/04/2026 02:39:10 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
