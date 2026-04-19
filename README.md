@@ -129,15 +129,15 @@ Sunday                   832 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               13 hrs 39 mins      █████████████████░░░░░░░░   66.54 % 
-Other                    4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Bash                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Prisma                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TypeScript               14 hrs 44 mins      █████████████████░░░░░░░░   66.54 % 
+Other                    4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Bash                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Prisma                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 31 mins      ███████████████████████░░   90.29 % 
-Unknown Editor           1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+VS Code                  20 hrs 10 mins      ███████████████████████░░   91.01 % 
+Unknown Editor           1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -153,7 +153,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2026 02:42:36 UTC
+ Last Updated on 19/04/2026 02:58:54 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
