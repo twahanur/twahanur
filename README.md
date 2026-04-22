@@ -94,7 +94,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 306 Contributions in the Year 2026
+> 🏆 310 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -105,21 +105,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2162 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
-🌆 Daytime                2303 commits        █████████░░░░░░░░░░░░░░░░   36.92 % 
-🌃 Evening                1201 commits        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-🌙 Night                  571 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+🌞 Morning                2176 commits        █████████░░░░░░░░░░░░░░░░   34.79 % 
+🌆 Daytime                2305 commits        █████████░░░░░░░░░░░░░░░░   36.85 % 
+🌃 Evening                1203 commits        █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+🌙 Night                  571 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   873 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Tuesday                  1123 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Wednesday                1008 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Thursday                 1221 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Friday                   542 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Saturday                 636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Sunday                   834 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Monday                   873 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Tuesday                  1131 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Wednesday                1008 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Thursday                 1225 commits        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Friday                   542 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Saturday                 636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Sunday                   840 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
 ```
 
 
@@ -129,15 +129,14 @@ Sunday                   834 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               11 hrs 8 mins       ███████████████░░░░░░░░░░   61.47 % 
-Other                    4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Prisma                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+TypeScript               9 hrs 58 mins       ██████████████████░░░░░░░   70.97 % 
+Other                    2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Prisma                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 8 mins       ██████████████████████░░░   89.07 % 
-Unknown Editor           1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+VS Code                  14 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -153,7 +152,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2026 02:53:08 UTC
+ Last Updated on 22/04/2026 02:51:53 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
