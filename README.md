@@ -84,7 +84,7 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -105,18 +105,18 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2208 commits        █████████░░░░░░░░░░░░░░░░   34.85 % 
-🌆 Daytime                2349 commits        █████████░░░░░░░░░░░░░░░░   37.08 % 
+🌞 Morning                2208 commits        █████████░░░░░░░░░░░░░░░░   34.84 % 
+🌆 Daytime                2351 commits        █████████░░░░░░░░░░░░░░░░   37.10 % 
 🌃 Evening                1207 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 🌙 Night                  571 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   883 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Tuesday                  1135 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Monday                   883 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Tuesday                  1135 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 Wednesday                1062 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Thursday                 1229 commits        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Thursday                 1231 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 Friday                   546 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 Saturday                 636 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 Sunday                   844 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
@@ -129,14 +129,14 @@ Sunday                   844 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               7 hrs 1 min         █████████████████░░░░░░░░   67.80 % 
-Other                    1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Prisma                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               6 hrs 59 mins       ██████████████████░░░░░░░   73.70 % 
+Prisma                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Other                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2026 02:55:24 UTC
+ Last Updated on 24/04/2026 02:55:20 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
