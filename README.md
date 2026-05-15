@@ -84,17 +84,15 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2029%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 358 Contributions in the Year 2026
+> 🏆 375 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -102,43 +100,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2356 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
-🌆 Daytime                2595 commits        ██████████░░░░░░░░░░░░░░░   38.13 % 
-🌃 Evening                1283 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-🌙 Night                  571 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   978 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Tuesday                  1234 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Wednesday                1202 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Thursday                 1287 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Friday                   576 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Saturday                 636 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Sunday                   892 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-TypeScript               21 hrs 17 mins      ██████████████████████░░░   86.63 % 
-Other                    1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Prisma                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-
-🔥 Editors: 
-VS Code                  24 hrs 35 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -152,7 +113,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 03:42:17 UTC
+ Last Updated on 15/05/2026 03:45:00 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
