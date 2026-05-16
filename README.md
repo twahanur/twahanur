@@ -84,6 +84,8 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%2040%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
@@ -92,7 +94,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 375 Contributions in the Year 2026
+> 🏆 382 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -100,6 +102,43 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2404 commits        █████████░░░░░░░░░░░░░░░░   34.59 % 
+🌆 Daytime                2675 commits        ██████████░░░░░░░░░░░░░░░   38.49 % 
+🌃 Evening                1299 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+🌙 Night                  571 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Tuesday                  1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Wednesday                1210 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Thursday                 1327 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Friday                   624 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Saturday                 636 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Sunday                   900 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+TypeScript               14 hrs 56 mins      ██████████████████████░░░   87.89 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Prisma                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+TSConfig                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 59 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -113,7 +152,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 03:45:00 UTC
+ Last Updated on 16/05/2026 03:29:31 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
