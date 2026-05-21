@@ -102,43 +102,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2412 commits        █████████░░░░░░░░░░░░░░░░   34.63 % 
-🌆 Daytime                2675 commits        ██████████░░░░░░░░░░░░░░░   38.41 % 
-🌃 Evening                1307 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-🌙 Night                  571 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Tuesday                  1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Wednesday                1210 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Thursday                 1327 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Friday                   624 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Saturday                 644 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Sunday                   908 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-TypeScript               10 hrs 36 mins      ██████████████████████░░░   86.44 % 
-Prisma                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-TSConfig                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 16 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -152,7 +115,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2026 03:53:34 UTC
+ Last Updated on 21/05/2026 04:02:17 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
