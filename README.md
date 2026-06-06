@@ -129,14 +129,14 @@ Sunday                   950 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               2 hrs 18 mins       ██████████████░░░░░░░░░░░   54.40 % 
-Python                   1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   39.40 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Prisma                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TypeScript               2 hrs 19 mins       ██████████████░░░░░░░░░░░   54.52 % 
+Python                   1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   39.30 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Prisma                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Python                   5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2026 04:04:19 UTC
+ Last Updated on 06/06/2026 03:45:48 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
