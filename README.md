@@ -84,7 +84,7 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -94,7 +94,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 513 Contributions in the Year 2026
+> 🏆 514 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -105,8 +105,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2662 commits        ████████░░░░░░░░░░░░░░░░░   33.85 % 
-🌆 Daytime                3126 commits        ██████████░░░░░░░░░░░░░░░   39.75 % 
+🌞 Morning                2663 commits        ████████░░░░░░░░░░░░░░░░░   33.85 % 
+🌆 Daytime                3126 commits        ██████████░░░░░░░░░░░░░░░   39.74 % 
 🌃 Evening                1474 commits        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 🌙 Night                  603 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
@@ -116,9 +116,9 @@
 Monday                   1156 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 Tuesday                  1405 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
 Wednesday                1344 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Thursday                 1446 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Thursday                 1446 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
 Friday                   697 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Saturday                 748 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Saturday                 749 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 Sunday                   1069 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 ```
 
@@ -129,13 +129,13 @@ Sunday                   1069 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Bash                     13 mins             ████████████░░░░░░░░░░░░░   47.92 % 
-TypeScript               13 mins             ████████████░░░░░░░░░░░░░   46.44 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Bash                     13 mins             █████████████░░░░░░░░░░░░   50.74 % 
+TypeScript               11 mins             ███████████░░░░░░░░░░░░░░   43.29 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+VS Code                  27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -151,7 +151,7 @@ Python                   5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2026 02:52:02 UTC
+ Last Updated on 12/07/2026 03:00:39 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
