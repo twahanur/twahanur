@@ -84,8 +84,6 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-755%20hrs%2046%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.74%20million%20lines%20of%20code-blue?style=flat)
@@ -129,14 +127,14 @@ Sunday                   1114 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               40 mins             ███████████████████░░░░░░   75.64 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+TypeScript               37 mins             ███████████████████░░░░░░   74.26 % 
+Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+VS Code                  50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -152,7 +150,7 @@ Python                   5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 02:59:43 UTC
+ Last Updated on 24/07/2026 02:53:49 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
