@@ -84,7 +84,9 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -139,6 +141,28 @@ Git Config               1 min               █░░░░░░░░░░�
 VS Code                  50 mins             █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 mins (26.54%)
+
+✍️ 58 lines written by AI, 31 lines written by hand (65.17% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 5 AI Prompts
+
+Github-Copilot           58 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 65.17% of written lines came from AI
+📝 Concise Prompter — average 68 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 48.67% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -152,7 +176,7 @@ Python                   5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:27:04 UTC
+ Last Updated on 28/07/2026 02:45:01 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
