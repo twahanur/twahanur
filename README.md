@@ -84,6 +84,10 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%204%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.74%20million%20lines%20of%20code-blue?style=flat)
@@ -127,34 +131,16 @@ Sunday                   1114 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               9 mins              ██████████████░░░░░░░░░░░   54.37 % 
-Text                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (11.18%)
-
-✍️ 0 lines written by AI, 23 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 45 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -170,7 +156,7 @@ Python                   5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 02:51:39 UTC
+ Last Updated on 30/07/2026 02:37:07 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
