@@ -84,6 +84,10 @@
 <br>
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%204%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.79%20million%20lines%20of%20code-blue?style=flat)
@@ -100,6 +104,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2792 commits        ████████░░░░░░░░░░░░░░░░░   33.81 % 
+🌆 Daytime                3297 commits        ██████████░░░░░░░░░░░░░░░   39.92 % 
+🌃 Evening                1547 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+🌙 Night                  622 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1221 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Tuesday                  1480 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Wednesday                1416 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Thursday                 1494 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Friday                   732 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Saturday                 800 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Sunday                   1115 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -113,7 +156,7 @@ Python                   5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:49:06 UTC
+ Last Updated on 08/08/2026 01:50:05 UTC
 <!--END_SECTION:waka-->
 <p>
    <a> 
